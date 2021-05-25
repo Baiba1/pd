@@ -1,0 +1,52 @@
+#virsraksts{
+    color:red;
+    text-align:right;
+}
+#pilsdrupas{
+    padding-top: 15px;
+    background-color: green;
+    border-style: solid;
+    border-color: red;
+    border-width: 5px;
+}
+
+#saraksts{
+    padding-bottom: 20px;
+}
+
+#tabula{
+    paddind-top: 25px;
+}
+
+#tabula1{
+    background-color: gray;
+}
+
+#tabula2{
+    background-color: limegreen;
+}
+
+img{
+    border-style: solid;
+    color: red;
+    border-width: 20px;
+}
+
+body{
+    padding-left: 65px;
+    padding-right:50px ;
+    background-color: grey;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+td, th{
+    border: 1px solid
+}
+
+div{
+    background-color: gray;
+    border: darkred 20px; 
+}
